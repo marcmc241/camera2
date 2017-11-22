@@ -18,6 +18,9 @@
     },
     "cordova-plugin-file-opener2": {
       "PACKAGE_NAME": "com.marcmc6.camera2"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.marcmc6.camera2"
     }
   },
   "dependent_plugins": {}
